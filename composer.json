@@ -1,8 +1,8 @@
 {
     "name": "andrey-mashukov/instagram",
-    "keywords": ["queue", "data container", "data transfer"],
+    "keywords": ["instagram", "multiphoto post", "instagram post"],
     "homepage": "https://github.com/AndreyMashukov/instagram",
-    "description": "Queue for data transfer",
+    "description": "Classes for posts to instagram",
     "license": "MIT",
     "authors": [
         {
